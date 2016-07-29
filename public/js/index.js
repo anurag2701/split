@@ -115,3 +115,16 @@ $(function() {
 
 
 /* on change of groups*/
+
+
+/* toggleIcon */
+$("th").click( function(e) {
+	   if($(this).hasClass( "glyphicon-plus" ))
+	   {
+		   	$(this).removeClass("glyphicon-plus").addClass("glyphicon-minus");
+	   }
+	   else
+	   {	
+		   	$(this).removeClass("glyphicon-minus").addClass("glyphicon-plus");
+	   }
+	});

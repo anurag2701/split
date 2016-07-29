@@ -9,6 +9,7 @@
 <link href='http://fonts.googleapis.com/css?family=Lato:300,700'
 	rel='stylesheet' type='text/css'>
 	  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+	   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 
 <meta name="viewport" content="width=device-width">
 
